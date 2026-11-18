@@ -1,2 +1,3 @@
 # ilosgames.github.io
-ILOSGames web page
+ILOS Games homepage
+Contact: realilosgames@gmail.com
